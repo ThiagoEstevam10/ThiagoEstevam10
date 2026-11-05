@@ -2,11 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=220&section=header&text=Thiago%20Estevam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20em%20formação&descAlignY=58&descSize=20" alt="Banner Thiago Estevam" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=24C6DC&center=true&vCenter=true&width=640&lines=Olá%2C+eu+sou+o+Thiago+%F0%9F%91%8B;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+Front-End+e+Web;Transformando+ideias+em+interfaces+%E2%9C%A8" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=24C6DC&center=true&vCenter=true&width=640&lines=Olá%2C+eu+sou+o+Thiago+%F0%9F%91%8B;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+Front-End+e+Web;Transformando+ideias+em+interfaces+✨)](https://git.io/typing-svg)
 
-<br/><br/>
+<br/>
 
 ![Visitas](https://komarev.com/ghpvc/?username=ThiagoEstevam10&label=Visitas+ao+perfil&color=24c6dc&style=for-the-badge)
 ![Seguidores](https://img.shields.io/github/followers/ThiagoEstevam10?label=Seguidores&style=for-the-badge&logo=github&color=302b63)
@@ -109,17 +107,13 @@ Além do front-end, uso **Python** e **Java** para entender a lógica por trás 
 
 ## 📊 Estatísticas do Jogador
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ThiagoEstevam10&theme=tokyonight&hide_border=true&date_format=M%2Fj%2FY" alt="GitHub Streak" />
+</p>
 
-<!-- Adicionado o painel de Streak de commits do GitHub para reforçar a gamificação -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ThiagoEstevam10&theme=tokyonight&hide_border=true&date_format=M%2Fj%2FY" alt="GitHub Streak" />
-
-<br/><br/>
-
-<!-- Estatísticas gerais do perfil -->
-<img src="https://github-readme-stats.vercel.app/api?username=ThiagoEstevam10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoEstevam10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
 ---
 
