@@ -20,11 +20,11 @@
 | 🕹️ Atributo | 📋 Status |
 |:--|:--|
 | **Nome do jogador** | Thiago Estevam |
-| **Classe** | 🎨 Front-End Developer |
+| **Classe** | Front-End Developer |
 | **Guilda** | 🎓 Análise e Desenvolvimento de Sistemas (ADS) |
 | **Armas principais** | HTML · CSS · Python · Java |
 | **Missão atual** | Construir interfaces bonitas, rápidas e acessíveis |
-| **Status** | 🟢 Online e aberto a oportunidades |
+| **Status** | Online e aberto a oportunidades |
 
 </div>
 
@@ -36,10 +36,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e tenho como foco o 
 
 Além do front-end, uso **Python** e **Java** para entender a lógica por trás das aplicações, o que me ajuda a conversar melhor com quem constrói o back-end.
 
-- 🎯 **Foco:** Front-End e Web
-- 📚 **Estudando:** Análise e Desenvolvimento de Sistemas
-- 🌱 **Evoluindo:** Boas práticas, responsividade e acessibilidade
-- 🤝 **Aberto a:** Estágio, trabalho em equipe e projetos colaborativos
+- **Foco:** Front-End e Web
+- **Estudando:** Análise e Desenvolvimento de Sistemas
+- **Evoluindo:** Boas práticas, responsividade e acessibilidade
+- **Aberto a:** Estágio, trabalho em equipe e projetos colaborativos
 
 ---
 
@@ -55,10 +55,10 @@ Além do front-end, uso **Python** e **Java** para entender a lógica por trás 
 
 | Skill | Nível | Progresso | XP |
 |:--|:--:|:--|:--:|
-| 🌐 **HTML** | Lv. 3 | `██████░░░░░░░░░░░░░░` | 30% |
-| 🎨 **CSS** | Lv. 3 | `██████░░░░░░░░░░░░░░` | 30% |
-| 🐍 **Python** | Lv. 2 | `████░░░░░░░░░░░░░░░░` | 20% |
-| ☕ **Java** | Lv. 2 | `████░░░░░░░░░░░░░░░░` | 20% |
+| **HTML** | Lv. 3 | `██████░░░░░░░░░░░░░░` | 30% |
+| **CSS** | Lv. 3 | `██████░░░░░░░░░░░░░░` | 30% |
+| **Python** | Lv. 2 | `████░░░░░░░░░░░░░░░░` | 20% |
+| **Java** | Lv. 2 | `████░░░░░░░░░░░░░░░░` | 20% |
 
 ---
 
@@ -79,13 +79,13 @@ Além do front-end, uso **Python** e **Java** para entender a lógica por trás 
 
 ## 🗺️ Quests em Andamento
 
-- [x] 🌐 Dominar a base: **HTML e CSS**
-- [x] 🧠 Aprender lógica com **Python e Java**
-- [ ] ⚡ Desbloquear **JavaScript** para dar vida às interfaces
-- [ ] 🧩 Aprender **Flexbox e Grid** em nível avançado
-- [ ] 🎨 Estudar **UI/UX e Figma**
-- [ ] ⚛️ Subir de nível com um framework front-end
-- [ ] 💼 Conquistar o **primeiro estágio na área**
+- [x] Dominar a base: **HTML e CSS**
+- [x] Aprender lógica com **Python e Java**
+- [ ] Desbloquear **JavaScript** para dar vida às interfaces
+- [ ] Aprender **Flexbox e Grid** em nível avançado
+- [ ] Estudar **UI/UX e Figma**
+- [ ] Subir de nível com um framework front-end
+- [ ] Conquistar o **primeiro estágio na área**
 
 ---
 
