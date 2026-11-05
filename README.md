@@ -108,11 +108,11 @@ Além do front-end, uso **Python** e **Java** para entender a lógica por trás 
 ## 📊 Estatísticas do Jogador
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ThiagoEstevam10&theme=tokyonight&hide_border=true&date_format=M%2Fj%2FY" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoEstevam10&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoEstevam10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoEstevam10&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
