@@ -124,6 +124,10 @@ Além do front-end, uso **Python** e **Java** para entender a lógica por trás 
 
 <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark&no-frame=true&row=1&column=6" alt="Troféus do GitHub" />
 
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" />
+
 </div>
 
 ---
