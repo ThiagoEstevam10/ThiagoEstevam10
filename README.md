@@ -112,7 +112,7 @@ Além do front-end, uso **Python** e **Java** para entender a lógica por trás 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoEstevam10&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoEstevam10&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=24C6DC&icon_color=24C6DC&text_color=ffffff&ring_color=24C6DC" alt="GitHub Stats" />
 </p>
 
 ---
