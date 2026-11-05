@@ -59,10 +59,10 @@ Além do front-end, uso **Python** e **Java** para entender a lógica por trás 
 
 | Skill | Nível | Progresso | XP |
 |:--|:--:|:--|:--:|
-| 🌐 **HTML** | Lv. 7 | `██████████████░░░░░░` | 70% |
-| 🎨 **CSS** | Lv. 7 | `██████████████░░░░░░` | 70% |
-| 🐍 **Python** | Lv. 5 | `██████████░░░░░░░░░░` | 50% |
-| ☕ **Java** | Lv. 5 | `██████████░░░░░░░░░░` | 50% |
+| 🌐 **HTML** | Lv. 3 | `██████░░░░░░░░░░░░░░` | 30% |
+| 🎨 **CSS** | Lv. 3 | `██████░░░░░░░░░░░░░░` | 30% |
+| 🐍 **Python** | Lv. 2 | `████░░░░░░░░░░░░░░░░` | 20% |
+| ☕ **Java** | Lv. 2 | `████░░░░░░░░░░░░░░░░` | 20% |
 
 ---
 
@@ -111,45 +111,11 @@ Além do front-end, uso **Python** e **Java** para entender a lógica por trás 
 
 ## 📊 Estatísticas do jogador
 
-<div align="center">
+> 🤖 Esta seção é **atualizada automaticamente** pelo GitHub Actions, usando a API oficial do GitHub.
 
-<img src="https://ghchart.rshah.org/24c6dc/ThiagoEstevam10" alt="Gráfico de contribuições de Thiago Estevam" width="90%" />
-
-<br/><br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ThiagoEstevam10&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoEstevam10&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ThiagoEstevam10&theme=onedark&no-frame=true&row=1&column=6" alt="Troféus do GitHub" />
-
-<br/>
-
-<details>
-<summary><b>🔥 Ver sequência de commits e gráfico de atividade</b></summary>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ThiagoEstevam10&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoEstevam10&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" />
-
-</details>
-
-</div>
-
----
-
-## 🧩 Dica do dia
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase aleatória" />
-
-</div>
+<!--STATS_START-->
+⏳ *Aguardando a primeira atualização automática...*
+<!--STATS_END-->
 
 ---
 
