@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=24C6DC&center=true&vCenter=true&width=640&lines=Olá%2C+eu+sou+o+Thiago+%F0%9F%91%8B;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+Front-End+e+Web;Transformando+ideias+em+interfaces+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 ![Visitas](https://komarev.com/ghpvc/?username=ThiagoEstevam10&label=Visitas+ao+perfil&color=24c6dc&style=for-the-badge)
 ![Seguidores](https://img.shields.io/github/followers/ThiagoEstevam10?label=Seguidores&style=for-the-badge&logo=github&color=302b63)
@@ -40,8 +40,8 @@ Além do front-end, uso **Python** e **Java** para entender a lógica por trás 
 
 - 🎯 **Foco:** Front-End e Web
 - 📚 **Estudando:** Análise e Desenvolvimento de Sistemas
-- 🌱 **Evoluindo:** boas práticas, responsividade e acessibilidade
-- 🤝 **Aberto a:** estágio, trabalho em equipe e projetos colaborativos
+- 🌱 **Evoluindo:** Boas práticas, responsividade e acessibilidade
+- 🤝 **Aberto a:** Estágio, trabalho em equipe e projetos colaborativos
 
 ---
 
@@ -53,9 +53,7 @@ Além do front-end, uso **Python** e **Java** para entender a lógica por trás 
 
 </div>
 
-### ⚔️ Nível de maestria
-
-> *Os níveis abaixo são uma sugestão. Ajuste os números como achar justo.*
+### ⚔️ Nível de Maestria
 
 | Skill | Nível | Progresso | XP |
 |:--|:--:|:--|:--:|
@@ -66,7 +64,7 @@ Além do front-end, uso **Python** e **Java** para entender a lógica por trás 
 
 ---
 
-## 🏆 Conquistas desbloqueadas
+## 🏆 Conquistas Desbloqueadas
 
 | Troféu | Conquista | Status |
 |:--:|:--|:--:|
@@ -81,7 +79,7 @@ Além do front-end, uso **Python** e **Java** para entender a lógica por trás 
 
 ---
 
-## 🗺️ Quests em andamento
+## 🗺️ Quests em Andamento
 
 - [x] 🌐 Dominar a base: **HTML e CSS**
 - [x] 🧠 Aprender lógica com **Python e Java**
@@ -93,7 +91,7 @@ Além do front-end, uso **Python** e **Java** para entender a lógica por trás 
 
 ---
 
-## 📁 Projetos em destaque
+## 📁 Projetos em Destaque
 
 > ✏️ **Edite esta seção** com seus projetos reais. Use o modelo abaixo para cada um.
 
@@ -109,17 +107,23 @@ Além do front-end, uso **Python** e **Java** para entender a lógica por trás 
 
 ---
 
-## 📊 Estatísticas do jogador
+## 📊 Estatísticas do Jogador
 
-> 🤖 Esta seção é **atualizada automaticamente** pelo GitHub Actions, usando a API oficial do GitHub.
+<div align="center">
 
-<!--STATS_START-->
-⏳ *Aguardando a primeira atualização automática...*
-<!--STATS_END-->
+<!-- Adicionado o painel de Streak de commits do GitHub para reforçar a gamificação -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ThiagoEstevam10&theme=tokyonight&hide_border=true&date_format=M%2Fj%2FY" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- Estatísticas gerais do perfil -->
+<img src="https://github-readme-stats.vercel.app/api?username=ThiagoEstevam10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+</div>
 
 ---
 
-## 📫 Vamos conectar?
+## 📫 Vamos Conectar?
 
 <div align="center">
 
@@ -136,6 +140,8 @@ Além do front-end, uso **Python** e **Java** para entender a lógica por trás 
 <br/><br/>
 
 **🎮 Fim de fase! Se chegou até aqui, que tal dar uma ⭐ e deixar um "Player 2" no meu perfil?**
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" alt="Rodapé" />
 
