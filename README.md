@@ -108,7 +108,7 @@ Além do front-end, uso **Python** e **Java** para entender a lógica por trás 
 ## 📊 Estatísticas do Jogador
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoEstevam10&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoEstevam10&background=0F0C29&border=24C6DC&stroke=24C6DC&ring=24C6DC&fire=24C6DC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=24C6DC&sideLabels=24C6DC&dates=888888&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
