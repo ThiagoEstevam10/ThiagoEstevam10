@@ -22,11 +22,11 @@
 | 🕹️ Atributo | 📋 Status |
 |:--|:--|
 | **Nome do jogador** | Thiago Estevam |
-| **Classe** | Front-End Developer |
-| **Guilda** |🎓 Análise e Desenvolvimento de Sistemas (ADS) |
+| **Classe** | 🎨 Front-End Developer |
+| **Guilda** | 🎓 Análise e Desenvolvimento de Sistemas (ADS) |
 | **Armas principais** | HTML · CSS · Python · Java |
 | **Missão atual** | Construir interfaces bonitas, rápidas e acessíveis |
-| **Status** | Online e aberto a oportunidades |
+| **Status** | 🟢 Online e aberto a oportunidades |
 
 </div>
 
