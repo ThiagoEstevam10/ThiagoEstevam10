@@ -8,8 +8,8 @@
 
 <br/>
 
-![Visitas](https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitas+ao+perfil&color=24c6dc&style=for-the-badge)
-![Seguidores](https://img.shields.io/github/followers/SEU_USUARIO?label=Seguidores&style=for-the-badge&logo=github&color=302b63)
+![Visitas](https://komarev.com/ghpvc/?username=ThiagoEstevam10&label=Visitas+ao+perfil&color=24c6dc&style=for-the-badge)
+![Seguidores](https://img.shields.io/github/followers/ThiagoEstevam10?label=Seguidores&style=for-the-badge&logo=github&color=302b63)
 
 </div>
 
@@ -101,9 +101,9 @@ Além do front-end, uso **Python** e **Java** para entender a lógica por trás 
 
 | 🎯 Projeto | 📝 Descrição | 🧰 Tecnologias |
 |:--|:--|:--|
-| **[Nome do projeto 1](https://github.com/SEU_USUARIO)** | Uma frase explicando o que ele faz | `HTML` `CSS` |
-| **[Nome do projeto 2](https://github.com/SEU_USUARIO)** | Uma frase explicando o que ele faz | `Python` |
-| **[Nome do projeto 3](https://github.com/SEU_USUARIO)** | Uma frase explicando o que ele faz | `Java` |
+| **[Nome do projeto 1](https://github.com/ThiagoEstevam10)** | Uma frase explicando o que ele faz | `HTML` `CSS` |
+| **[Nome do projeto 2](https://github.com/ThiagoEstevam10)** | Uma frase explicando o que ele faz | `Python` |
+| **[Nome do projeto 3](https://github.com/ThiagoEstevam10)** | Uma frase explicando o que ele faz | `Java` |
 
 </div>
 
@@ -113,20 +113,31 @@ Além do front-end, uso **Python** e **Java** para entender a lógica por trás 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+<img src="https://ghchart.rshah.org/24c6dc/ThiagoEstevam10" alt="Gráfico de contribuições de Thiago Estevam" width="90%" />
+
+<br/><br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ThiagoEstevam10&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoEstevam10&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
+<img src="https://github-profile-trophy.vercel.app/?username=ThiagoEstevam10&theme=onedark&no-frame=true&row=1&column=6" alt="Troféus do GitHub" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark&no-frame=true&row=1&column=6" alt="Troféus do GitHub" />
+<details>
+<summary><b>🔥 Ver sequência de commits e gráfico de atividade</b></summary>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" />
+<img src="https://streak-stats.demolab.com?user=ThiagoEstevam10&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoEstevam10&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" />
+
+</details>
 
 </div>
 
@@ -146,13 +157,13 @@ Além do front-end, uso **Python** e **Java** para entender a lógica por trás 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/thiago-estevam-7185b02b6" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:thiestevam66@gmail.com">
   <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
 </a>
-<a href="https://github.com/SEU_USUARIO" target="_blank">
+<a href="https://github.com/ThiagoEstevam10" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
