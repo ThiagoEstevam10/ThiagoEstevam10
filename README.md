@@ -2,9 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=220&section=header&text=Thiago%20Estevam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20em%20formação&descAlignY=58&descSize=20" alt="Banner Thiago Estevam" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=24C6DC&center=true&vCenter=true&width=640&lines=Olá%2C+eu+sou+o+Thiago+%F0%9F%91%8B;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+Front-End+e+Web;Transformando+ideias+em+interfaces+✨)](https://git.io/typing-svg)
-
 <br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=302B63&center=true&vCenter=true&width=640&lines=Olá%2C+eu+sou+o+Thiago+%F0%9F%91%8B;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+Front-End+e+Web;Transformando+ideias+em+interfaces+✨)](https://git.io/typing-svg)
+
+<br/><br/>
 
 ![Visitas](https://komarev.com/ghpvc/?username=ThiagoEstevam10&label=Visitas+ao+perfil&color=24c6dc&style=for-the-badge)
 ![Seguidores](https://img.shields.io/github/followers/ThiagoEstevam10?label=Seguidores&style=for-the-badge&logo=github&color=302b63)
