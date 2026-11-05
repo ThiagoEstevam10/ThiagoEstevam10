@@ -89,17 +89,17 @@ Além do front-end, uso **Python** e **Java** para entender a lógica por trás 
 
 ---
 
-## 📁 Projetos em Destaque
+## 🧪 Laboratório de Projetos (Em Breve)
 
-> ✏️ **Edite esta seção** com seus projetos reais. Use o modelo abaixo para cada um.
+> *Projetos em fase de desenvolvimento e polimento para os próximos níveis.*
 
 <div align="center">
 
-| 🎯 Projeto | 📝 Descrição | 🧰 Tecnologias |
-|:--|:--|:--|
-| **[Nome do projeto 1](https://github.com/ThiagoEstevam10)** | Uma frase explicando o que ele faz | `HTML` `CSS` |
-| **[Nome do projeto 2](https://github.com/ThiagoEstevam10)** | Uma frase explicando o que ele faz | `Python` |
-| **[Nome do projeto 3](https://github.com/ThiagoEstevam10)** | Uma frase explicando o que ele faz | `Java` |
+| ⚔️ Projeto | 🎯 Objetivo | 🧰 Techs Usadas | 📋 Status |
+|:--|:--|:--|:--:|
+| **Portfolio Web** | Criar minha página principal responsiva e acessível | `HTML` `CSS` | 🚧 Em construção |
+| **Logic Lab** | Resolução de algoritmos e exercícios de lógica | `Python` `Java` | ⚡ Ativo |
+| **Mini-projetos Front-End** | Interfaces modernas e componentes interativos | `HTML` `CSS` | 🧪 Em testes |
 
 </div>
 
